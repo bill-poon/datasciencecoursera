@@ -1,5 +1,3 @@
-# run_analysis.R
-
 # 1. Load required libraries
 library(dplyr)
 
