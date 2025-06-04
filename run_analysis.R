@@ -1,5 +1,5 @@
 # 1. Load required libraries
-library(dplyr)
+library(stringr)
 
 # 2. Download and unzip data if not already present
 filename <- "dataset.zip"
